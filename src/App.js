@@ -42,7 +42,7 @@ function App() {
   {/* <Route path="/" element={<TextForm heading="Enter the text to analyze below" mode={mode} showAlert={showAlert}/>} /> */}
   <TextForm heading="Enter the text to analyze below" mode={mode} showAlert={showAlert}/>
   {/* <Route path="/about" element={<About />} /> */}
-  <About />
+  {/* <About /> */}
 {/* </Routes> */}
 {/* </Router> */}
     </>
