@@ -1,6 +1,6 @@
 
 for installation of node modules
-use 'npm i' command
+use 'npm i' or node install command
 
 # Getting Started with Create React App
 
